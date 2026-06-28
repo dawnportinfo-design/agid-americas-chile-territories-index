@@ -1,0 +1,46 @@
+[
+  {
+    "repository": "agid-country-cl-ea",
+    "kind": "country-parent",
+    "region": "chile_territories",
+    "countryCode": "CL-EA",
+    "countryName": "Easter Island (Rapa Nui)",
+    "parentRepository": "agid-americas-chile-territories-index",
+    "stage": "wave-1-country-parent",
+    "githubCreateNow": false,
+    "description": "AGID country or territory pack for Easter Island (Rapa Nui); stores safe rules, sources, quality gates, and synthetic fixtures only."
+  },
+  {
+    "repository": "agid-country-cl-jf",
+    "kind": "country-parent",
+    "region": "chile_territories",
+    "countryCode": "CL-JF",
+    "countryName": "Juan Fernández Islands",
+    "parentRepository": "agid-americas-chile-territories-index",
+    "stage": "wave-1-country-parent",
+    "githubCreateNow": false,
+    "description": "AGID country or territory pack for Juan Fernández Islands; stores safe rules, sources, quality gates, and synthetic fixtures only."
+  },
+  {
+    "repository": "agid-country-cl-di",
+    "kind": "country-parent",
+    "region": "chile_territories",
+    "countryCode": "CL-DI",
+    "countryName": "Desventuradas Islands",
+    "parentRepository": "agid-americas-chile-territories-index",
+    "stage": "wave-1-country-parent",
+    "githubCreateNow": false,
+    "description": "AGID country or territory pack for Desventuradas Islands; stores safe rules, sources, quality gates, and synthetic fixtures only."
+  },
+  {
+    "repository": "agid-country-cl-sg",
+    "kind": "country-parent",
+    "region": "chile_territories",
+    "countryCode": "CL-SG",
+    "countryName": "Salas y Gómez Island",
+    "parentRepository": "agid-americas-chile-territories-index",
+    "stage": "wave-1-country-parent",
+    "githubCreateNow": false,
+    "description": "AGID country or territory pack for Salas y Gómez Island; stores safe rules, sources, quality gates, and synthetic fixtures only."
+  }
+]
