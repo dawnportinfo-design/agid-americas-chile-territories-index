@@ -1,15 +1,50 @@
 {
-  "version": "agid-americas-region-index-manifest-v1",
+  "schemaVersion": "agid-index-repository-manifest-v0.1",
   "repository": "agid-americas-chile-territories-index",
-  "owner": "dawnportinfo-design",
   "kind": "region-index",
-  "status": "completed-region-index-seed",
-  "description": "AGID Chile Territories index for Americas country and territory repository coordination.",
-  "continent": "americas",
+  "owner": "dawnportinfo-design",
+  "canonicalContinent": "americas",
   "region": "chile_territories",
-  "parentRepository": "agid-americas-index",
-  "storesPersonalAddressMaterial": false,
-  "countryParentRepositoryCount": 4,
-  "childLogicalRepositoryCount": 0,
-  "defaultBranch": "main"
+  "stage": "wave-0-index",
+  "indexReady": true,
+  "sourcePlanVersion": "agid-americas-repository-creation-plan-v1",
+  "generatedAt": "2026-06-28T12:54:28.908Z",
+  "privacy": {
+    "rawAddressStorage": false,
+    "recipientStorage": false,
+    "precisePrivateCoordinates": false,
+    "witnessMaterial": false,
+    "privateKeys": false,
+    "carrierOperationalData": false
+  },
+  "relatedRepositories": [
+    {
+      "repository": "agid-country-cl-ea",
+      "kind": "country-parent",
+      "countryCode": "CL-EA",
+      "countryName": "Easter Island (Rapa Nui)",
+      "stage": "wave-1-country-parent"
+    },
+    {
+      "repository": "agid-country-cl-jf",
+      "kind": "country-parent",
+      "countryCode": "CL-JF",
+      "countryName": "Juan Fernández Islands",
+      "stage": "wave-1-country-parent"
+    },
+    {
+      "repository": "agid-country-cl-di",
+      "kind": "country-parent",
+      "countryCode": "CL-DI",
+      "countryName": "Desventuradas Islands",
+      "stage": "wave-1-country-parent"
+    },
+    {
+      "repository": "agid-country-cl-sg",
+      "kind": "country-parent",
+      "countryCode": "CL-SG",
+      "countryName": "Salas y Gómez Island",
+      "stage": "wave-1-country-parent"
+    }
+  ]
 }
